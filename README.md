@@ -37,7 +37,7 @@ Kompleksowy system do zarządzania wypożyczalnią samochodów, oparty na bazie 
 
 1.  **Sklonuj repozytorium:**
     ```bash
-    git clone [https://github.com/twoj-nick/rent-a-car-os.git](https://github.com/twoj-nick/rent-a-car-os.git)
+    git clone [https://github.com/mikolaj-kopacz/rent-a-car-os.git](https://github.com/mikolaj-kopacz/rent-a-car-os.git)
     cd rent-a-car-os
     ```
 
